@@ -1,0 +1,16 @@
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+C:\MindexInterview\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+C:\MindexInterview\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+C:\MindexInterview\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.CoreCompileInputs.cache
+C:\MindexInterview\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+C:\MindexInterview\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+C:\MindexInterview\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.genruntimeconfig.cache
+C:\MindexInterview\code-challenge\bin\Debug\netcoreapp2.1\resources\CompensationSeedData.json
+C:\MindexInterview\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csprojAssemblyReference.cache

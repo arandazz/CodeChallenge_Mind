@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Id": "",
+    "salary": 40000,
+    "effectiveDate": "06/19/2021",
+    "employee": {
+      "employeeId": "16a596ae-edd3-4847-99fe-c4518e82c86f",
+      "firstName": "John",
+      "lastName": "Lennon",
+      "position": "Development Manager",
+      "department": "Engineering"
+    }
+  }
+]
